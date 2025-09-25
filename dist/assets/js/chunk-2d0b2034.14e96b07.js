@@ -1,0 +1,1 @@
+(window["webpackJsonp_pms-framework-nx-umms-ui"]=window["webpackJsonp_pms-framework-nx-umms-ui"]||[]).push([["chunk-2d0b2034"],{"21fe":function(e,n,u){"use strict";u.r(n);var r=function(){var e=this,n=e.$createElement,u=e._self._c||n;return u("router-view")},s=[],t={},o=t,a=u("2877"),c=Object(a["a"])(o,r,s,!1,null,null,null);n["default"]=c.exports}}]);
